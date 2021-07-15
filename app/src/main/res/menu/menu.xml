@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/fontSize"
+        android:title="FonteSize"
+        android:icon="@drawable/ic_format_size"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/fontColor"
+        android:title="FontColor"
+        android:icon="@drawable/ic_palet"
+        app:showAsAction="always"/>
+
+</menu>
